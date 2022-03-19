@@ -8,7 +8,7 @@ Other than that, my interests also lie in the NLP sub-areas of Cognitive NLP, Di
 
 Before starting my PhD, I was a Research Engineer at the [CFILT Lab](https://www.cfilt.iitb.ac.in), IIT Bombay, India, where my investigations led to publications in diverse sub-areas of NLP and AI.
 
-## �️ Skills
+##  Skills
 
 ### Languages
 
@@ -34,7 +34,7 @@ Before starting my PhD, I was a Research Engineer at the [CFILT Lab](https://www
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-## �️ Workspace Setup
+## Workspace Setup
 
 ![i7-10th-gen](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![rtx-5000](https://img.shields.io/badge/NVIDIA-RTX_5000-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
