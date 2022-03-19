@@ -8,6 +8,15 @@ Other than that, my interests also lie in the NLP sub-areas of Cognitive NLP, Di
 
 Before starting my PhD, I was a Research Engineer at the [CFILT Lab](https://www.cfilt.iitb.ac.in), IIT Bombay, India, where my investigations led to publications in diverse sub-areas of NLP and AI.
 
+## Interests
+- Artificial Intelligence
+- Natural Language Processing
+- Computational Linguistics
+- Cognitively-inspired NLP
+- Machine Translation
+
+<hr />
+
 ##  Skills
 
 ### Languages
@@ -40,6 +49,13 @@ Before starting my PhD, I was a Research Engineer at the [CFILT Lab](https://www
 ![rtx-5000](https://img.shields.io/badge/NVIDIA-RTX_5000-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/ubuntu-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
+## Links
+
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Microsoft-Edge&logoColor=white)](https://dipteshkanojia.github.io/)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dipteshkanojia/)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/dipteshkanojia)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dipteshkanojia/)
 <!--
 **dipteshkanojia/dipteshkanojia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
