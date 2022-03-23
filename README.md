@@ -23,6 +23,7 @@ Before starting my PhD, I was a Research Engineer at the [CFILT Lab](https://www
 
 ![python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=white)
 ![java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/c++-323330.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![android](https://img.shields.io/badge/Android-323330?style=for-the-badge&logo=android&logoColor=white)
