@@ -57,6 +57,8 @@ Before starting my PhD, I was a Research Engineer at the [CFILT Lab](https://www
 [![linked-in](https://img.shields.io/badge/Linked_In-323330?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dipteshkanojia/)
 [![github](https://img.shields.io/badge/GitHub-323330?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/dipteshkanojia)
 [![instagram](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dipteshkanojia/)
+[![twitter](https://img.shields.io/badge/Twitter-323330?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/diptesh/)
+
 <!--
 **dipteshkanojia/dipteshkanojia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
