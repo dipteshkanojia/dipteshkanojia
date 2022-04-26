@@ -12,7 +12,6 @@ Before starting my PhD, I was a Research Engineer at the [CFILT Lab](https://www
 <br />
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/diptesh?color=1DA1F2&logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/diptesh)
-
 ## Interests <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px" height="50px">
 - Artificial Intelligence
 - Natural Language Processing
