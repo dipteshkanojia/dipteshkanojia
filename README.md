@@ -1,9 +1,10 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
+
 [I am a Researcher](https://dipteshkanojia.github.io) working on problems intersecting the areas of Natural Language Processing (NLP) and Machine or Deep Learning (ML/DL). As a Lecturer at [Surrey Institute for People-centred AI](https://www.surrey.ac.uk/artificial-intelligence), and the Department of Computer Science at the [University of Surrey](https://www.surrey.ac.uk), I co-teach the NLP module. I am also teaching NLP at the Indian Institute of Information Technology Lucknow, as a [Visiting Faculty](https://iiitl.ac.in/index.php/personnel/dr-diptesh-kanojia/).
 
 The focus of my research is Machine Translation; working with Prof. Sabine Braun, Prof. ‪Constantin Orăsan, Dr. Félix do Carmo and other colleagues.
-
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px" height="50px">
 Other than that, my interests also lie in the NLP sub-areas of Cognitive NLP, Distributional and Lexical Semantics, Multimodality/Multilingualism in NLP, Sentiment/Emotion Analysis; and Teaching. I graduated with a Joint PhD from the IITB-Monash Research Academy ( IIT Bombay, India & Monash University, Australia ) in 2021; and was advised by Prof. Pushpak Bhattacharyya, Prof. Gholamreza Haffari, and Prof. Malhar Kulkarni.
 
 Before starting my PhD, I was a Research Engineer at the [CFILT Lab](https://www.cfilt.iitb.ac.in), IIT Bombay, India, where my investigations led to publications in diverse sub-areas of NLP and AI.
