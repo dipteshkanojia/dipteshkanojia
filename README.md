@@ -8,6 +8,12 @@ Other than that, my interests also lie in the NLP sub-areas of Cognitive NLP, Di
 
 Before starting my PhD, I was a Research Engineer at the [CFILT Lab](https://www.cfilt.iitb.ac.in), IIT Bombay, India, where my investigations led to publications in diverse sub-areas of NLP and AI.
 
+<!-- [![GitHub Follow](https://img.shields.io/github/followers/dipteshkanojia?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipteshkanojia) -->
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/diptesh?color=1DA1F2&logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/diptesh)
+
+<br />
+
 ## Interests
 - Artificial Intelligence
 - Natural Language Processing
