@@ -3,7 +3,7 @@
 
 [I am a Researcher](https://dipteshkanojia.github.io) working on problems intersecting the areas of Natural Language Processing (NLP) and Machine or Deep Learning (ML/DL). As a Lecturer at [Surrey Institute for People-centred AI](https://www.surrey.ac.uk/artificial-intelligence), and the Department of Computer Science at the [University of Surrey](https://www.surrey.ac.uk), I co-teach the NLP module. In the past, I taught NLP at the Indian Institute of Information Technology Lucknow, as a [Visiting Faculty](https://iiitl.ac.in/index.php/personnel/dr-diptesh-kanojia/).
 
-The focus of my research is cross-lingual and cross-modal NLP problems like Machine Translation (MT), automated evaluation and correction for MT, and multimodal hate/sarcasm/humor identification. Additionally, my interests also lie in the NLP sub-areas of Cognitive NLP, i.e., gaze/EEG/cognitive activity tracking for NLP problems.
+The focus of my research is cross-lingual and cross-modal NLP problems like Machine Translation (MT), automated evaluation and correction for MT, and multimodal hate/sarcasm/humor identification. Other than that, I work with Cognitive NLP, i.e., gaze/EEG/cognitive activity tracking for NLP problems, and have applied it to various downstream NLP tasks. 
 
 Before starting my PhD, I was a Research Engineer at the [CFILT Lab](https://www.cfilt.iitb.ac.in), IIT Bombay, India, where my investigations led to publications in various sub-areas within NLP and AI.
 <br />
@@ -13,7 +13,7 @@ Before starting my PhD, I was a Research Engineer at the [CFILT Lab](https://www
 - Artificial Intelligence
 - Natural Language Processing
 - Computational Linguistics
-- Cognitively-inspired NLP
+- Cognitive NLP
 
 <hr />
 
