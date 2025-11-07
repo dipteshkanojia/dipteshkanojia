@@ -15,7 +15,7 @@ Before starting my PhD, I was a Research Engineer at the [CFILT Lab](https://www
 
 <hr />
 
-[![Website](https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Microsoft-Edge&logoColor=whit](https://img.shields.io/badge/Website-323330?style=for-the-badge&logo=Microsoft-Edge&logoColor=white)](https://dipteshkanojia.github.io/)
+[![Website]([https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Microsoft-Edge&logoColor=whit](https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Microsoft-Edge&logoColor=white))](https://dipteshkanojia.github.io/)
 [![linked-in](https://img.shields.io/badge/Linked_In-323330?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dipteshkanojia/)
 [![twitter](https://img.shields.io/badge/Twitter-323330?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/diptesh/)
 <hr />
