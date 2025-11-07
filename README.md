@@ -1,9 +1,9 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 
-[Researcher](https://dipteshkanojia.co.uk) working on problems within Natural Language Processing (NLP) and Machine Learning (ML).
-I like working on cross-lingual and cross-modal NLP problems like Machine Translation (MT), automated evaluation and correction for MT, and multimodal NLP (audio-visual/gaze/EEG).
-Before starting my PhD, I was a Research Engineer at the [CFILT Lab](https://www.cfilt.iitb.ac.in).
+[Researcher](https://dipteshkanojia.co.uk) working on problems within Natural Language Processing and Machine Learning.
+I like working on cross-lingual and cross-modal NLP problems like Machine Translation (MT), automated evaluation and correction for MT, and multimodal NLP (audio/vision/gaze/EEG).
+Before starting PhD, I was a Research Engineer at the [CFILT Lab](https://www.cfilt.iitb.ac.in).
 <br />
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/diptesh?color=1DA1F2&logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/diptesh)
