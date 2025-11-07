@@ -17,17 +17,8 @@ Before starting my PhD, I was a Research Engineer at the [CFILT Lab](https://www
 
 [![portfolio](https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Microsoft-Edge&logoColor=white)](https://dipteshkanojia.github.io/)
 [![linked-in](https://img.shields.io/badge/Linked_In-323330?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dipteshkanojia/)
-[![github](https://img.shields.io/badge/GitHub-323330?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/dipteshkanojia)
-[![instagram](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dipteshkanojia/)
 [![twitter](https://img.shields.io/badge/Twitter-323330?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/diptesh/)
 <hr />
-
-## Workspace
-
-![i9-10th-gen](https://img.shields.io/badge/Intel-Core_i9_10th-323330?style=for-the-badge&logo=intel&logoColor=white)
-![rtx-a5000](https://img.shields.io/badge/NVIDIA-2_*_RTX_A5000-323330?style=for-the-badge&logo=nvidia&logoColor=white)
-![ubuntu](https://img.shields.io/badge/ubuntu_20.04-323330?style=for-the-badge&logo=ubuntu&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-323330?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 <!-- ## Links
 
